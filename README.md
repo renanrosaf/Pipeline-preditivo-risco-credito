@@ -75,12 +75,9 @@ Bibliotecas principais utilizadas:
 > 🚧 Link será adicionado após a gravação.
 
 ---
-*Projeto desenvolvido para a disciplina de Machine Learning e Visão Computacional [T2] — SCTEC.*
+*Projeto desenvolvido para o curso profissionalizante de Machine Learning e Visão Computacional [T2] — SCTEC-SENAI.*
 
-Autor
-Renan Rosa Ferreira
 
-LinkedIn:
 ## Autor
 
 **Renan Rosa Ferreira**
