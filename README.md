@@ -59,7 +59,7 @@ Bibliotecas principais utilizadas:
 
 ## 🧭 Fases do Projeto
 
-- [ ] Fase 1 — Análise Exploratória de Dados (EDA)
+- [x] Fase 1 — Análise Exploratória de Dados (EDA)
 - [ ] Fase 2 — Tratamento e Limpeza (Data Prep)
 - [ ] Fase 3 — Feature Engineering (`comprometimento_renda`)
 - [ ] Fase 4 — Separação, Balanceamento e Escalonamento Seguro
@@ -76,3 +76,14 @@ Bibliotecas principais utilizadas:
 
 ---
 *Projeto desenvolvido para a disciplina de Machine Learning e Visão Computacional [T2] — SCTEC.*
+
+Autor
+Renan Rosa Ferreira
+
+LinkedIn:
+## Autor
+
+**Renan Rosa Ferreira**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanrosaferreira/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renanrosaf)
