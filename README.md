@@ -60,9 +60,9 @@ Bibliotecas principais utilizadas:
 ## 🧭 Fases do Projeto
 
 - [x] Fase 1 — Análise Exploratória de Dados (EDA)
-- [ ] Fase 2 — Tratamento e Limpeza (Data Prep)
-- [ ] Fase 3 — Feature Engineering (`comprometimento_renda`)
-- [ ] Fase 4 — Separação, Balanceamento e Escalonamento Seguro
+- [x] Fase 2 — Tratamento e Limpeza (Data Prep)
+- [x] Fase 3 — Feature Engineering (`comprometimento_renda`)
+- [x] Fase 4 — Separação, Balanceamento e Escalonamento Seguro
 - [ ] Fase 5 — Modelagem e Validação (KNN vs Árvore de Decisão)
 - [ ] Fase 6 — Avaliação e Veredito de Negócios
 
