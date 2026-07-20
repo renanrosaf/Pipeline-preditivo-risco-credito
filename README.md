@@ -86,15 +86,17 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-### Bibliotecas principais utilizadas:
+### Bibliotecas principais utilizadas e suas versões:
 
-pandas
-numpy
-scikit-learn
-imbalanced-learn
-matplotlib
-seaborn
-jupyter
+pandas==3.0.3
+numpy==2.5.1
+matplotlib==3.11.0
+seaborn==0.13.2
+scikit-learn==1.9.0
+scipy==1.18.0
+imbalanced-learn==0.14.2
+ipykernel==7.3.0
+jupyterlab==4.6.1
 
 ### Execução do Notebook
 
