@@ -17,10 +17,11 @@ A modelagem prioriza a redução dos **Falsos Negativos (Erro Tipo II)**, garant
 
 Comparar dois algoritmos clássicos de classificação — **KNN** e **Árvore de Decisão**,  otimizando seus hiperparâmetros para evitar overfitting, e recomendar qual modelo deve ser colocado em produção com base na análise de negócio.
 
-## 📁 Fonte dos Dados
+### 🔗 Documentação Oficial e Fonte dos Dados
+O desenvolvimento deste pipeline analítico, os critérios de validação dos modelos e o veredito de negócio foram estruturados em conformidade com as diretrizes do edital do desafio técnico e utilizam a base pública de crédito referenciada abaixo:
 
-O arquivo principal que alimenta o pipeline analítico está disponível publicamente em formato `.csv`:
-- [Acessar base de dados no Google Drive](https://drive.google.com/file/d/1R4WCMc_56lv3fMaDalUBAz5jSxeZOcwI/view?usp=sharing)
+* 📄 **Edital e Roteiro do Projeto:** [Acessar Especificações no Google Docs](https://docs.google.com/document/d/1Oxsag5XGMpfHRx6ggS7rCVC8TtvpiHq0j0kmAY-_qFE/edit?usp=sharing)
+* 📁 **Base de Dados (`.csv`):** [Acessar Arquivo no Google Drive](https://drive.google.com/file/d/1R4WCMc_56lv3fMaDalUBAz5jSxeZOcwI/view?usp=sharing)
 
 ## 📊 Dicionário de Dados
 
