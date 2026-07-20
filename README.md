@@ -62,7 +62,7 @@ O conjunto de dados é composto por variáveis demográficas, financeiras e cada
 └── README.md
 ```
 
-## ⚙️ Como Instalar as Dependências
+## ⚙️ Como Instalar as Dependências e Bibliotecas do Projeto
 
 ### Pré-requisitos
 - Python 3.9 ou superior instalado no ambiente de desenvolvimento.
@@ -89,7 +89,7 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-###  Bibliotecas principais utilizadas e suas versões:
+### Bibliotecas principais utilizadas e suas versões:
 
 | Biblioteca | Versão | Aplicação no Projeto |
 | :--- | :---: | :--- |
