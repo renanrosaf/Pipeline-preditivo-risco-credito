@@ -1,3 +1,6 @@
+
+*Projeto desenvolvido para o curso profissionalizante de Machine Learning e Visão Computacional [T2] — SCTEC-SENAI.*
+
 # Credit Risk Prediction — Pipeline Preditivo de Risco de Crédito
 
 Pipeline preditivo de Machine Learning para classificação de risco de crédito (inadimplência vs. adimplência). Cobre EDA, tratamento de nulos/outliers, feature engineering (`comprometimento_renda`), balanceamento com SMOTE, escalonamento seguro, comparação KNN vs. Árvore de Decisão, análise de overfitting e veredito via matriz de confusão.
@@ -152,10 +155,7 @@ Para a implantação na API do banco, a probabilidade de inadimplência gerada p
 
 ## 🎥 Vídeo de Apresentação
 
-> 🚧 Link será adicionado após a gravação.
-
--- [Acessar link do video Google Drive](https://drive.google.com/file/d/1R4WCMc_56lv3fMaDalUBAz5jSxeZOcwI/view?usp=sharing)
-*Projeto desenvolvido para o curso profissionalizante de Machine Learning e Visão Computacional [T2] — SCTEC-SENAI.*
+-- [Acessar link do video Google Drive](https://drive.google.com/file/d/16KG01a1aL0Cf_D7DomxiQ5zGqlnLRUtw/view?usp=sharing)
 
 ## Autor
 
