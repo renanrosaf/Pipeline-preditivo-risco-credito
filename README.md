@@ -89,7 +89,7 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-### Bibliotecas principais utilizadas e suas versões:
+### Bibliotecas principais utilizadas e suas versões
 
 | Biblioteca | Versão | Aplicação no Projeto |
 | :--- | :---: | :--- |
