@@ -50,6 +50,8 @@ O conjunto de dados é composto por variáveis demográficas, financeiras e cada
 
 ## 🗂️ Estrutura do Repositório
 
+```text
+
 ├── notebooks/
 │   └── pipeline_credito_risco.ipynb
 ├── data/
@@ -58,6 +60,7 @@ O conjunto de dados é composto por variáveis demográficas, financeiras e cada
 │   └── (materiais de apoio, gráficos exportados, etc.)
 ├── requirements.txt
 └── README.md
+```
 
 ## ⚙️ Como Instalar as Dependências
 
@@ -86,17 +89,19 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-### Bibliotecas principais utilizadas e suas versões:
+###  Bibliotecas principais utilizadas e suas versões:
 
-pandas==3.0.3
-numpy==2.5.1
-matplotlib==3.11.0
-seaborn==0.13.2
-scikit-learn==1.9.0
-scipy==1.18.0
-imbalanced-learn==0.14.2
-ipykernel==7.3.0
-jupyterlab==4.6.1
+| Biblioteca | Versão | Aplicação no Projeto |
+| :--- | :---: | :--- |
+| **pandas** | `3.0.3` | Manipulação de dados e engenharia de features |
+| **numpy** | `2.5.1` | Operações matemáticas e vetoriais |
+| **matplotlib** | `3.11.0` | Plotagem e customização de gráficos |
+| **seaborn** | `0.13.2` | Visualização estatística e Análise Exploratória |
+| **scikit-learn** | `1.9.0` | Pré-processamento, KNN, Árvore e métricas |
+| **scipy** | `1.18.0` | Funções estatísticas de apoio |
+| **imbalanced-learn** | `0.14.2` | Balanceamento de classes via SMOTE |
+| **ipykernel** | `7.3.0` | Kernel de execução Python |
+| **jupyterlab** | `4.6.1` | Ambiente de desenvolvimento (IDE) |
 
 ### Execução do Notebook
 
